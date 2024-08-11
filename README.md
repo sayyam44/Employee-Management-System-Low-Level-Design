@@ -22,4 +22,5 @@ their associated parameters like Employee ID, name, age, designation, salary det
 4. Save to file: The system allows the user to save all the employee records to a binary file 
 (.pkl) for storage and future retrieval.
 
+![new](https://github.com/user-attachments/assets/ce91db39-0b3c-4e46-9979-53d80b7f81f4)
 
